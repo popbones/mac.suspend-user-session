@@ -8,4 +8,6 @@ It works with Mac OS X 10.10. Should work with earlier versions as well but not 
 
 ## Installation
 
-Just copy the plist file to `~/LaunchAgents/`.
+Just copy the plist file to `~/LaunchAgents/`.\
+
+__Test__
